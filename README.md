@@ -1,0 +1,2 @@
+# DiceAppWithiCons
+app icon 
